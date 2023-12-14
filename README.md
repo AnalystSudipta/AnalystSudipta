@@ -3,11 +3,11 @@
 # 👋 Hi, I’m Sudipta Biswas. 
 I'm a Data Analyst and Database Programmer working at [BRAC Bank PLC](https://www.bracbank.com/) as a *Associate Manager*. 
 
-I've done my Post-graduation in Information Technology and Undergraduate in Computer Science and Engineering (CSE).
-I've a strong FinTech background, excelling in Database Design, Database Administration, SQL, PL/SQL, Power BI, and spreadsheets. Proven track record of extracting actionable insights from intricate datasets to drive data-driven decision-making. Skilled in crafting data solutions and optimizing processes within the dynamic FinTech landscape. Collaborative team player with the ability to define data requirements and effectively communicate findings.
+I've done my Post-graduation in Information Technology and Undergraduate in Computer Science and Engineering (CSE). 
+I've a strong FinTech background and my key area of expertise lies in data analysis, database Programming, database design, database administration, performance tuning, operations management. Proven track record of extracting actionable insights from intricate datasets to drive data-driven decision-making. Skilled in crafting data solutions and optimizing processes within the dynamic FinTech landscape. Collaborative team player with the ability to define data requirements and effectively communicate findings.
 
 # Who am I? 
-- Currently live in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** Hometown  
+- Currently live in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** But, my hometown is **[Chattogram](https://en.wikipedia.org/wiki/Chittagong).**
 
 ![](https://komarev.com/ghpvc/?username=AnalystSudipta)
 
