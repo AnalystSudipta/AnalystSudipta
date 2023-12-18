@@ -6,22 +6,28 @@ I'm a Data Analyst and Database Programmer working at [BRAC Bank PLC](https://ww
 I've done my Post-graduation in Information Technology and Undergraduate in Computer Science and Engineering (CSE). 
 I've a strong FinTech background and my key area of expertise lies in data analysis, database programming, data visualization, database design, database administration, performance tuning, operations management. Proven track record of extracting actionable insights from intricate datasets to drive data-driven decision-making. Skilled in crafting data solutions and optimizing processes within the dynamic FinTech landscape. Collaborative team player with the ability to define data requirements and effectively communicate findings.
 
-# About Me: 
-**:arrow_right:** - Currently live in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** But, my hometown is **[Chattogram](https://en.wikipedia.org/wiki/Chittagong).** <br>
+## 💬 About Me ##
+**:arrow_right:** Currently live in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** But, my hometown is **[Chattogram](https://en.wikipedia.org/wiki/Chittagong).** <br>
 **:arrow_right:** Have 10 years of FinTech experience. <br>
 **:arrow_right:** Along with this Data profession, I'm a Freelance Photographer. <br>
 
 
-# Top Skills
-**:hash:** **Database Programming:**  `SQL`, `PL/SQL` <br>
-**:hash:** **Database Management:** [ORACLE](https://www.oracle.com/database/), [SQL Server](https://www.microsoft.com/en-us/sql-server), [MySQL](https://www.mysql.com/) <br>
-
-
+## 📌 Top Skills & Tools ##
+**:hash:** **Database Programming:**  [Oracle-SQL](https://www.oracle.com/database/technologies/appdev/sql.html), [PL/SQL](https://www.oracle.com/database/technologies/appdev/plsql.html), [T-SQL](https://learn.microsoft.com/en-us/sql/t-sql/language-reference?view=sql-server-ver16), [MySQL](https://www.mysql.com/), [BigQuery](https://cloud.google.com/bigquery?hl=en) <br>
+**:hash:** **Database Management:** [Oracle](https://www.oracle.com/database/), [SQL Server](https://www.microsoft.com/en-us/sql-server), [MySQL](https://www.mysql.com/) <br>
+**:hash:** **Database Administration:** `Oracle 19c` <br>
+**:hash:** **Data Analysis:** `SQL`, `Spreadsheet` <br>
+**:hash:** **Data Visualization:** `Power BI`, `Tableau` <br>
+**:hash:** **Development IDE:** [SQL-Developer](https://www.oracle.com/database/sqldeveloper/), 
 
 ![](https://komarev.com/ghpvc/?username=AnalystSudipta)
 
+
 <!---
 **:arrow_right:**
+![test](https://img.shields.io/badge/Database-Programming-blue)
+![DatabaseProgramming](https://img.shields.io/badge/Database%20Programming:-blue)
+
 <!---
 AnalystSudipta/AnalystSudipta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
