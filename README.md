@@ -15,10 +15,10 @@ I've a strong FinTech background and my key area of expertise lies in data analy
 ## 📌 Top Skills & Tools ##
 **:hash:** **Database Programming:**  [Oracle-SQL](https://www.oracle.com/database/technologies/appdev/sql.html), [PL/SQL](https://www.oracle.com/database/technologies/appdev/plsql.html), [T-SQL](https://learn.microsoft.com/en-us/sql/t-sql/language-reference?view=sql-server-ver16), [MySQL](https://www.mysql.com/), [BigQuery](https://cloud.google.com/bigquery?hl=en) <br>
 **:hash:** **Database Management:** [Oracle](https://www.oracle.com/database/), [SQL Server](https://www.microsoft.com/en-us/sql-server), [MySQL](https://www.mysql.com/) <br>
-**:hash:** **Database Administration:** `Oracle 19c` <br>
+**:hash:** **Database Administration:** __`Oracle 19c`__:arrow_right: `Database Desgin`, `SQL Tuning`, `Performacne Tuning`  <br>
 **:hash:** **Data Analysis:** `SQL`, `Spreadsheet` <br>
 **:hash:** **Data Visualization:** `Power BI`, `Tableau` <br>
-**:hash:** **Development IDE:** [SQL-Developer](https://www.oracle.com/database/sqldeveloper/), 
+**:hash:** **Development IDE:** [SQL-Developer](https://www.oracle.com/database/sqldeveloper/), [PL/SQL-Developer](https://www.allroundautomations.com/products/pl-sql-developer/), [Toad](https://www.quest.com/toad/)
 
 ![](https://komarev.com/ghpvc/?username=AnalystSudipta)
 
