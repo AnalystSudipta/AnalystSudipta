@@ -22,10 +22,14 @@ I've a strong FinTech background and my key area of expertise lies in data analy
 **:hash:** **Data Visualization:** `Power BI`, `Tableau` <br>
 **:hash:** **Development IDE:** [SQL-Developer](https://www.oracle.com/database/sqldeveloper/), [PL/SQL-Developer](https://www.allroundautomations.com/products/pl-sql-developer/), [Toad](https://www.quest.com/toad/)
 
+## Companies I've worked ##
+**:hash:** [BRAC Bank PLC](https://www.bracbank.com/) <br>
+**:hash:** [Sonali-Intellect Ltd.](https://www.sonaliintellect.com/) <br>
 
 
 
 <!---
+&nbsp; &ensp; &emsp;
 **:arrow_right:**
 ![test](https://img.shields.io/badge/Database-Programming-blue)
 ![DatabaseProgramming](https://img.shields.io/badge/Database%20Programming:-blue)
