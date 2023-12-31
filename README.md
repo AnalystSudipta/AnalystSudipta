@@ -24,7 +24,7 @@ I've a strong FinTech background and my key area of expertise lies in data analy
 
 ## 🚩 Companies I've worked ##
 **:hash:** Working as a **_`Data Analyst & Database Developer`_** at [BRAC Bank PLC](https://www.bracbank.com/)  from _November, 2022_ <br>
-**:hash:** Worked as a **_`Database Administrator & Developer`_** at [Sonali-Intellect Ltd.](https://www.sonaliintellect.com/) from _August, 2014 To  November, 2022_  <br>
+**:hash:** Worked as a **_`DBA & Database Developer`_** at [Sonali-Intellect Ltd.](https://www.sonaliintellect.com/) from _August, 2014 To  November, 2022_  <br>
 
 
 
