@@ -1,7 +1,7 @@
 ![coverphoto](https://github.com/AnalystSudipta/AnalystSudipta/assets/143230091/b2195e2a-3e84-4063-88a2-0c5dfa71157c)
 
 # 👋 Hi, I’m Sudipta Biswas. 
-I am a **Manager | Database Developer and Analyst** currently working at [BRAC Bank PLC](https://www.bracbank.com/). 
+I am a **Manager - Database Development and Analytics** currently working at [BRAC Bank PLC](https://www.bracbank.com/). 
 
 I have done my Post-graduation in Information Technology and Undergraduate in Computer Science and Engineering (CSE). 
 I have a strong FinTech background and my key area of expertise lies in data analysis, database programming, data visualization, database design, database administration, performance tuning, operations management. Proven track record of extracting actionable insights from intricate datasets to drive data-driven decision-making. Skilled in crafting data solutions and optimizing processes within the dynamic FinTech landscape. Collaborative team player with the ability to define data requirements and effectively communicate findings.
