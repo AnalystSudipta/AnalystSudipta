@@ -10,7 +10,7 @@ I have a strong FinTech background and my key area of expertise lies in data ana
 
 ## 💬 About Me ##
 **:arrow_right:** Currently live in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** But, my hometown is **[Chattogram](https://en.wikipedia.org/wiki/Chittagong).** <br>
-**:arrow_right:** Have 10 years of FinTech experience. <br>
+**:arrow_right:** More than 11 years of FinTech experience. <br>
 **:arrow_right:** Along with this Data profession, I'm a Freelance Photographer. <br>
 
 
